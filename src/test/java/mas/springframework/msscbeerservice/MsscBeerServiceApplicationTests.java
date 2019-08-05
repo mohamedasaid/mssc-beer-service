@@ -11,6 +11,8 @@ public class MsscBeerServiceApplicationTests {
 
     @Test
     public void contextLoads() {
+
+        //
     }
 
 }
